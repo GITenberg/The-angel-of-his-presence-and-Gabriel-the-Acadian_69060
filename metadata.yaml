@@ -1,0 +1,36 @@
+_repo: The-angel-of-his-presence-and-Gabriel-the-Acadian_69060
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bowyer, Edith M. Nicholl
+    gutenberg_agent_id: '55079'
+    url: http://www.gutenberg.org/2009/agents/55079
+  - agent_name: Hill, Grace Livingston
+    aliases:
+    - Lutz, Grace Livingston Hill
+    - Livingston, Grace
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: https://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: ''
+gutenberg_issued: '2022-09-28'
+identifiers:
+  gutenberg: '69060'
+language: en
+pgterms:marc904: https://archive.org/details/angelofhispresen00hill_0
+pgterms:marc905: 20190731093557hill
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Mardi Desjardins & the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net from page images generously made available by the
+  Internet Archive.
+publication_note: United States :American Baptist Publication Society,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The angel of his presence and Gabriel the Acadian
+url: http://www.gutenberg.org/ebooks/69060
